@@ -1,7 +1,7 @@
 #!/usr/bin/python3 
 
 class Statix():
-    # Note: apply mean deviation for median too
+    
     def mean(*args):
         sum = int()
         for i in range(len(args)):
